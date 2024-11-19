@@ -1,4 +1,3 @@
-```markdown
 # Movies App
 
 Movies App is a React-based application that allows users to search for and view information about movies.
