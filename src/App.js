@@ -19,7 +19,7 @@ function App() {
     //https://m.media-amazon.com/images/M/MV5BYWNiMmNlNm…TgxM2QtNDY3ZGQxNDMwZDgzXkEyXkFqcGc@._V1_SX300.jpg
 
     useEffect(() => {
-        SearchMovie('Shrek');
+        SearchMovie('Spiderman');
     }, []);
     return (
         <div className='app'>
